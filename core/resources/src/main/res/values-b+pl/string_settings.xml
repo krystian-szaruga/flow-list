@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings -->
+    <string name="settings_title">Ustawienia</string>
+    <string name="settings_navigation_bar_position">Pozycja paska nawigacji</string>
+    <string name="settings_fab_position">Pozycja przycisku akcji</string>
+
+    <!-- Positions -->
+    <string name="settings_position_top">Góra</string>
+    <string name="settings_position_bottom">Dół</string>
+    <string name="settings_position_top_left">Góra po lewej</string>
+    <string name="settings_position_top_right">Góra po prawej</string>
+    <string name="settings_position_bottom_left">Dół po lewej</string>
+    <string name="settings_position_bottom_right">Dół po prawej</string>
+
+    <!-- About -->
+    <string name="settings_about_app">O aplikacji</string>
+    <string name="settings_about_description">Aplikacja służy do rejestrowania swoich zadań i celów. Użytkownik ma możliwość tworzenia codziennych zadań wraz z powiadomieniami, śledzenia postępów oraz zarządzania swoimi celami.</string>
+    <string name="settings_about_technologies">Technologie</string>
+    <string name="settings_about_features">Funkcje</string>
+    <string name="settings_about_version">Wersja</string>
+
+    <!-- Features -->
+    <string name="settings_feature_daily_tasks">Tworzenie codziennych zadań</string>
+    <string name="settings_feature_notifications">System powiadomień</string>
+    <string name="settings_feature_goal_tracking">Śledzenie celów i postępów</string>
+    <string name="settings_feature_customization">Personalizacja interfejsu</string>
+
+    <string name="settings_collapse">Zwiń</string>
+    <string name="settings_expand">Rozwiń</string>
+    <string name="settings_click_for_more">Kliknij aby zobaczyć więcej</string>
+
+    <!-- Delay Settings -->
+    <string name="settings_recurring_task_delay">Opóźnienie przypomnienia dla zadań cyklicznych</string>
+    <string name="settings_task_delay">Opóźnienie przypomnienia dla zadań</string>
+
+    <!-- Recurring Task Delays -->
+    <string name="settings_delay_10_min">10 minut</string>
+    <string name="settings_delay_15_min">15 minut</string>
+    <string name="settings_delay_20_min">20 minut</string>
+    <string name="settings_delay_1_hour">1 godzina</string>
+    <string name="settings_delay_2_hours">2 godziny</string>
+
+    <!-- Task Delays -->
+    <string name="settings_delay_3_hours">3 godziny</string>
+    <string name="settings_delay_5_hours">5 godzin</string>
+    <string name="settings_delay_1_day">1 dzień</string>
+    <string name="settings_delay_2_days">2 dni</string>
+    <string name="settings_delay_1_week">1 tydzień</string>
+
+    <string name="settings_biometric_lock">Blokada biometryczna</string>
+    <string name="settings_biometric_lock_description">Zabezpiecz aplikację za pomocą odcisku palca lub rozpoznawania twarzy</string>
+
+    <string name="biometric_unlock_failed">Uwierzytelnianie nie powiodło się</string>
+    <string name="biometric_unlock_not_enrolled">Brak zarejestrowanych danych biometrycznych. Skonfiguruj uwierzytelnianie biometryczne w ustawieniach urządzenia.</string>
+    <string name="biometric_lock_title">Blokada biometryczna</string>
+    <string name="biometric_lock_subtitle">Użyj odcisku palca lub twarzy do odblokowania</string>
+</resources>

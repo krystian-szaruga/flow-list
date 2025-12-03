@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">FlowList</string>
+    <string name="notification_rationale_title">Zostań na bieżąco dzięki powiadomieniom</string>
+    <string name="notification_rationale_message">Aby wysyłać Ci powiadomienia o zadaniach, nawykach i celach, potrzebujemy zgody na ich wyświetlanie. Dzięki temu łatwiej będzie Ci pozostać zmotywowanym i zorganizowanym.</string>
+    <string name="enable_notifications">Włącz powiadomienia</string>
+    <string name="maybe_later">Może później</string>
+    <string name="go_to_settings_title">Włącz powiadomienia w ustawieniach</string>
+    <string name="go_to_settings_message">Wyłączyłeś powiadomienia. Aby otrzymywać przypomnienia o zadaniach i nawykach, włącz je w ustawieniach systemowych.</string>
+    <string name="open_settings">Otwórz ustawienia</string>
+    <string name="save">Zapisz</string>
+    <string name="add">Dodaj</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="back">Wstecz</string>
+    <string name="edit">Edytuj</string>
+    <string name="delete">Usuń</string>
+    <string name="notification_permission_denied">Nie przyznano zgody na powiadomienia.</string>
+    <string name="mark_as_done">Oznacz jako ukończone</string>
+    <string name="mark_as_skip">Oznacz jako pominięte</string>
+    <string name="tasks_navigation">Zadania</string>
+    <string name="goals_navigation">Projekty</string>
+    <string name="analytics_button_fab">Przycisk Statystyk</string>
+    <string name="speed_dial_fab">Przycisk akcji z rozwijanym menu</string>
+    <string name="statistics">Statystyki</string>
+    <string name="reload_button">Przycisk Odświeżania</string>
+    <string name="settings_navigation">Ustawienia</string>
+    <string name="daily_tasks_navigation">Regularne Zadania</string>
+    <string name="refresh_content_description">Ikona Odświeżania</string>
+    <string name="settings_content_description">Ikona Ustawień</string>
+    <string name="fab_content_description">"Przycisk dodaj</string>
+    <string name="error_past_datetime">Zaplanowany czas nie może być w przeszłości</string>
+    <string name="pick_date">Wybierz date</string>
+    <string name="title_label">Tytuł</string>
+    <string name="pick_time">Wybierz Godzine</string>
+    <string name="removalConfirmationTitle">Potwierdź Usunięcie</string>
+    <plurals name="removalConfirmationText">
+        <item quantity="one">Czy na pewno chcesz usunąć ten element?</item>
+        <item quantity="few">Czy na pewno chcesz usunąć te elementy?</item>
+        <item quantity="many">Czy na pewno chcesz usunąć te elementy?</item>
+        <item quantity="other">Czy na pewno chcesz usunąć te elementy?</item>
+    </plurals>
+    <string name="scheduled">Zaplanowano</string>
+    <string name="description">Opis</string>
+    <string name="repe">Powtarzanie</string>
+    <string name="once">Jednorazowo</string>
+    <string name="daily">Codziennie</string>
+    <string name="every_x_days_label">Co X dni</string>
+    <string name="every_x_days">Co %1$d dni</string>
+    <string name="repeat_every_x_days">Powtarzaj co X dni</string>
+    <string name="number_of_days">Liczba dni</string>
+    <string name="settings_security">Bezpieczeństwo</string>
+    !-- Biometric Authentication -->
+    <string name="biometric_auth_successful">Uwierzytelnienie pomyślne</string>
+    <string name="biometric_auth_failed">Nie można uwierzytelnić</string>
+    <string name="biometric_prompt_title">Wymagane uwierzytelnienie</string>
+    <string name="biometric_prompt_description">Potwierdź swoją tożsamość, aby zmienić to ustawienie</string>
+    <string name="biometric_prompt_cancel">Anuluj</string>
+
+    <!-- Biometric Errors -->
+    <string name="biometric_error_no_enrollment">Nie skonfigurowano danych biometrycznych. Skonfiguruj uwierzytelnianie biometryczne w ustawieniach urządzenia.</string>
+    <string name="biometric_error_no_hardware">Urządzenie nie posiada czujnika biometrycznego.</string>
+    <string name="biometric_error_hw_unavailable">Czujnik biometryczny jest obecnie niedostępny.</string>
+    <string name="biometric_error_not_available">Uwierzytelnianie biometryczne jest niedostępne.</string>
+    <!-- BiometricAuthActivity - App Unlock -->
+    <string name="biometric_unlock_title">Odblokuj aplikację</string>
+    <string name="biometric_unlock_subtitle">Zweryfikuj swoją tożsamość</string>
+    <string name="biometric_unlock_description">Użyj odcisku palca lub rozpoznawania twarzy</string>
+    <string name="biometric_unlock_cancel">Anuluj</string>
+    <!-- BiometricAuthActivity - Success -->
+    <string name="biometric_unlock_successful">Uwierzytelnienie pomyślne</string>
+    <!-- BiometricAuthActivity - Errors -->
+    <string name="biometric_unlock_error">Błąd: %s</string>
+    <string name="biometric_unlock_failed_retry">Uwierzytelnienie nie powiodło się. Spróbuj ponownie</string>
+    <string name="biometric_unlock_cancelled">Uwierzytelnienie anulowane</string>
+    <string name="biometric_unlock_lockout">Za dużo prób. Spróbuj ponownie później</string>
+    <!-- BiometricAuthActivity - Hardware/Setup Issues -->
+    <string name="biometric_unlock_not_available">Uwierzytelnianie biometryczne jest niedostępne.</string>
+    <string name="biometric_unlock_no_hardware">To urządzenie nie posiada czytnika biometrycznego</string>
+    <string name="biometric_unlock_unavailable">Czytnik biometryczny jest obecnie niedostępny</string>
+</resources>

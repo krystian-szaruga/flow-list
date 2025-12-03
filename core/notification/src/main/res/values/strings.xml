@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goal_title">GOAL</string>
+    <string name="goal_channel_name">Goal</string>
+    <string name="goal_channel_description">Notifications for goals</string>
+    <string name="task_title">TASK</string>
+    <string name="task_channel_name">Task</string>
+    <string name="task_channel_description">Notifications for standalone tasks</string>
+    <string name="recurring_task_title">RECURRING TASK</string>
+    <string name="linked_to_goal">%1$s\nLinked to goal: %2$s</string>
+    <string name="recurring_task_channel_name">Recurring Task</string>
+    <string name="recurring_task_channel_description">Notifications for recurring tasks</string>
+    <!-- Notification Actions -->
+    <string name="action_done">Done</string>
+    <string name="action_delay">Delay</string>
+    <string name="action_skip">Skip</string>
+</resources>

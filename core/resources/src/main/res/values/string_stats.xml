@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="statistics_overview">Statistics Overview</string>
+    <string name="weekly_trend">Weekly Trend</string>
+    <string name="last_status">Last Status: </string>
+    <string name="completed">Completed</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="total_task">Total Task</string>
+    <string name="select_task">Select Task</string>
+    <string name="choose_task">Choose a task</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="selected_description">Selected</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="active">Active</string>
+    <string name="stats_list_title">All Record</string>
+</resources>

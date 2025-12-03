@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="statistics_overview">Przegląd Statystyk</string>
+    <string name="weekly_trend">Tygodniowy Trend</string>
+    <string name="last_status">Ostatni Stan: </string>
+    <string name="completed">Ukończone</string>
+    <string name="not_completed">Nieukończone</string>
+    <string name="total_task">Wszystkie Zadania</string>
+    <string name="select_task">Zaznacz Zadanie</string>
+    <string name="choose_task">Wybierz Zadanie</string>
+    <string name="collapse">Zwiń</string>
+    <string name="expand">Rozwiń</string>
+    <string name="selected_description">Wybrany</string>
+    <string name="disabled">Wyłączony</string>
+    <string name="enabled">Włączony</string>
+    <string name="active">Aktywny</string>
+    <string name="stats_list_title">Wszystkie Rekordy</string>
+</resources>

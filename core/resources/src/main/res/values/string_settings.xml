@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_navigation_bar_position">Navigation bar position</string>
+    <string name="settings_fab_position">Floating action button position</string>
+
+    <!-- Positions -->
+    <string name="settings_position_top">Top</string>
+    <string name="settings_position_bottom">Bottom</string>
+    <string name="settings_position_top_left">Top Left</string>
+    <string name="settings_position_top_right">Top Right</string>
+    <string name="settings_position_bottom_left">Bottom Left</string>
+    <string name="settings_position_bottom_right">Bottom Right</string>
+
+    <!-- About -->
+    <string name="settings_about_app">About App</string>
+    <string name="settings_about_description">This is a multimodular application built with Jetpack Compose, Hilt, Dagger and other modern technologies. The app is designed for tracking your tasks and goals. Users can create daily tasks with notifications, track progress and manage their goals.</string>
+    <string name="settings_about_technologies">Technologies</string>
+    <string name="settings_about_features">Features</string>
+    <string name="settings_about_version">Version</string>
+
+    <!-- Features -->
+    <string name="settings_feature_daily_tasks">Create daily tasks</string>
+    <string name="settings_feature_notifications">Notification system</string>
+    <string name="settings_feature_goal_tracking">Track goals and progress</string>
+    <string name="settings_feature_customization">Interface customization</string>
+
+    <string name="settings_collapse">Collapse</string>
+    <string name="settings_expand">Expand</string>
+    <string name="settings_click_for_more">Click to see more</string>
+
+    <string name="settings_recurring_task_delay">Recurring Task Reminder Delay</string>
+    <string name="settings_task_delay">Task Reminder Delay</string>
+
+    <!-- Recurring Task Delays -->
+    <string name="settings_delay_10_min">10 minutes</string>
+    <string name="settings_delay_15_min">15 minutes</string>
+    <string name="settings_delay_20_min">20 minutes</string>
+    <string name="settings_delay_1_hour">1 hour</string>
+    <string name="settings_delay_2_hours">2 hours</string>
+
+    <!-- Task Delays -->
+    <string name="settings_delay_3_hours">3 hours</string>
+    <string name="settings_delay_5_hours">5 hours</string>
+    <string name="settings_delay_1_day">1 day</string>
+    <string name="settings_delay_2_days">2 days</string>
+    <string name="settings_delay_1_week">1 week</string>
+
+    <string name="settings_biometric_lock">Biometric Lock</string>
+    <string name="settings_biometric_lock_description">Secure your app with fingerprint or face recognition</string>
+
+    <string name="biometric_unlock_failed">Authentication failed</string>
+    <string name="biometric_unlock_not_enrolled">No biometric enrolled. Please set up biometric authentication in device settings.</string>
+    <string name="biometric_lock_title">Biometric Lock</string>
+    <string name="biometric_lock_subtitle">Use fingerprint or face to unlock</string>
+</resources>

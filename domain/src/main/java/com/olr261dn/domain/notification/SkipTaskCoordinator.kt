@@ -1,0 +1,3 @@
+package com.olr261dn.domain.notification
+
+interface SkipTaskCoordinator: ActionCoordinator

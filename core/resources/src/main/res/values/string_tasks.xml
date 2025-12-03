@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_title">Task</string>
+
+    <string name="mark_as_active">Mark as active</string>
+    <string name="tasks_statistic_title">Tasks Statistics</string>
+    <string name="title">Title</string>
+    <string name="disable_deadline">Disable Deadline</string>
+    <string name="no_description">No description provided</string>
+    <string name="linked_goal">Linked Goal</string>
+    <string name="information">Information</string>
+    <string name="warning_note">
+        This item is not completed. To mark it for completion again, choose a future date,
+        or leave it unchanged if no update is needed.
+    </string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goal_title">Projekt</string>
+    <string name="linked_tasks">Połączone Zadania</string>
+    <string name="no_linked_tasks">Brak podlinkowanych zadań</string>\
+    <string name="link_existing">Dodaj Istniejące</string>
+
+    <string name="goal_details">Szczegóły projektu</string>
+    <string name="close">Zamknij</string>
+    <string name="no_title">Brak tytułu</string>
+    <string name="scheduled_time">Zaplanowany czas</string>
+    <string name="delayed_to">Przełożone na</string>
+    <string name="created_at">Utworzono</string>
+    <string name="tasks">Zadania (%d)</string>
+    <string name="no_tasks">Brak zadań przypisanych do tego projektu</string>
+    <string name="goal_id">ID celu</string>
+    <string name="not_set">Nie ustawiono</string>
+    <string name="untitled_task">Zadanie bez tytułu</string>
+    <string name="delayed">Opóźnione</string>
+
+    <string name="goals_statistic_title">Statystyki projektów</string>
+    <string name="goal_label">Projekt</string>
+    <string name="goal_completions">Ukończenia projektu</string>
+    <string name="completion_entries_format">%1$d / %2$d wpisów ukończonych</string>
+    <string name="tasks_completed_format">%1$d / %2$d zadań ukończonych</string>
+    <string name="tasks_not_completed_format">%1$d / %2$d zadań nieukończonych</string>
+    <string name="tasks_not_marked_format">%1$d / %2$d zadań nie oznaczonych</string>
+    <string name="last_goal_update_format">Ostatnia aktualizacja projektu: %1$s</string>
+    <string name="last_task_update_format">Ostatnia aktualizacja zadania: %1$s</string>
+    <string name="filter_by_goal">Filtruj według projektu</string>
+    <string name="all_goals">Wszystkie projekty</string>
+    <string name="goal_number_format">Cel #%1$s</string>
+    <string name="tasks_count_format">%1$d zadań</string>
+    <string name="total_goals_format">%d projetków łącznie</string>
+    <string name="pending_tasks">Nieoznaczone</string>
+    <string name="last_goal_update_label">Ostatnia aktualizacja projektu</string>
+    <string name="last_task_update_label">Ostatnia aktualizacja zadania</string>
+    <string name="task_after_project_error">Zadanie nie może być zaplanowane po czasie zakończenia projektu</string>
+    <string name="project_before_tasks_error">Cel nie może być zaplanowany przed żadnym ze swoich zadań</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_placeholder">Enter Description…</string>
+    <string name="daily_task_input_label">Task Title</string>
+    <string name="placeholder_text">Add First Element By Pressing + Button</string>
+</resources>

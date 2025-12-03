@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">FlowList</string>
+    <string name="notification_rationale_title">Stay On Track with Reminders</string>
+    <string name="notification_rationale_message">To send you reminders about your tasks, habits, and goals, we need permission to show notifications. This helps you stay focused and consistent.</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="go_to_settings_title">Enable Notifications in Settings</string>
+    <string name="go_to_settings_message">You’ve disabled notification permission. To receive reminders about your tasks and habits, please enable it in system settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_done">Mark as done</string>
+    <string name="mark_as_skip">Mark as skip</string>
+    <string name="notification_permission_denied">Notifications permission denied.</string>
+    <string name="tasks_navigation">Tasks</string>
+    <string name="analytics_button_fab">Analytics Button</string>
+    <string name="speed_dial_fab">Speed Dial FAB</string>
+    <string name="statistics">Statistics</string>
+    <string name="reload_button">Reload Button</string>
+    <string name="goals_navigation">Projects</string>
+    <string name="settings_navigation">Settings</string>
+    <string name="daily_tasks_navigation">Recurring</string>
+    <string name="refresh_content_description">Refresh Icon</string>
+    <string name="settings_content_description">Settings Icon</string>
+    <string name="fab_content_description">"Add Button</string>
+    <string name="error_past_datetime">Scheduled time cannot be in the past</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="pick_time">Pick Time</string>
+    <string name="title_label">Title</string>
+    <string name="removalConfirmationTitle">Confirm Removal</string>
+    <plurals name="removalConfirmationText">
+        <item quantity="one">Are you sure you want to remove this item?</item>
+        <item quantity="other">Are you sure you want to remove these items?</item>
+    </plurals>
+    <string name="scheduled">Scheduled</string>
+    <string name="description">Description</string>
+    <string name="repe">Repeat</string>
+    <string name="once">Once</string>
+    <string name="daily">Daily</string>
+    <string name="every_x_days_label">Every X days</string>
+    <string name="every_x_days">Every %1$d days</string>
+    <string name="repeat_every_x_days">Repeat every X days</string>
+    <string name="number_of_days">Number of days</string>
+    <string name="settings_security">Security</string>
+    <!-- Biometric Authentication -->
+    <string name="biometric_auth_successful">Authentication successful</string>
+    <string name="biometric_auth_failed">Unable to authenticate</string>
+    <string name="biometric_prompt_title">Authentication Required</string>
+    <string name="biometric_prompt_description">Confirm your identity to change this setting</string>
+    <string name="biometric_prompt_cancel">Cancel</string>
+
+    <!-- Biometric Errors -->
+    <string name="biometric_error_no_enrollment">No biometric enrolled. Please set up biometric authentication in your device settings.</string>
+    <string name="biometric_error_no_hardware">No biometric hardware available.</string>
+    <string name="biometric_error_hw_unavailable">Biometric hardware is currently unavailable.</string>
+    <string name="biometric_error_not_available">Biometric authentication not available.</string>
+
+    <!-- BiometricAuthActivity - App Unlock -->
+    <string name="biometric_unlock_title">Unlock your app</string>
+    <string name="biometric_unlock_subtitle">Verify your identity</string>
+    <string name="biometric_unlock_description">Use fingerprint or face recognition</string>
+    <string name="biometric_unlock_cancel">Cancel</string>
+    <!-- BiometricAuthActivity - Success -->
+    <string name="biometric_unlock_successful">Authentication successful</string>
+    <!-- BiometricAuthActivity - Errors -->
+    <string name="biometric_unlock_error">Error: %s</string>
+    <string name="biometric_unlock_failed_retry">Authentication failed. Please try again</string>
+    <string name="biometric_unlock_cancelled">Authentication cancelled</string>
+    <string name="biometric_unlock_lockout">Too many attempts. Please try again later</string>
+    <!-- BiometricAuthActivity - Hardware/Setup Issues -->
+    <string name="biometric_unlock_not_available">Biometric authentication not available.</string>
+    <string name="biometric_unlock_no_hardware">This device does not have biometric hardware</string>
+    <string name="biometric_unlock_unavailable">Biometric hardware is currently unavailable</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goal_title">CEL</string>
+    <string name="goal_channel_name">Cele</string>
+    <string name="goal_channel_description">Powiadomienia dotyczące Twoich celów</string>
+    <string name="task_title">ZADANIE</string>
+    <string name="task_channel_name">Zadania</string>
+    <string name="task_channel_description">Powiadomienia o pojedynczych zadaniach</string>
+    <string name="linked_to_goal">%1$s\nPowiązane z celem: %2$s</string>
+    <string name="recurring_task_title">ZADANIE CYKLICZNE</string>
+    <string name="recurring_task_channel_name">Zadania cykliczne</string>
+    <string name="recurring_task_channel_description">Powiadomienia o zadaniach powtarzających się</string>
+    <!-- Akcje powiadomień -->
+    <string name="action_done">Gotowe</string>
+    <string name="action_delay">Później</string>
+    <string name="action_skip">Pomiń</string>
+</resources>

@@ -1,0 +1,135 @@
+# -----------------------
+# Android / Kotlin Basics
+# -----------------------
+
+*.iml
+.gradle/
+.idea/
+.kotlin/
+build/
+captures/
+.externalNativeBuild/
+local.properties
+.DS_Store
+*.apk
+*.ap_
+*.db
+release/
+
+# -----------------------
+# Specific to Jetpack Compose
+# -----------------------
+# (Compose generates preview files)
+.idea/preview/
+
+# -----------------------
+# Generated Files
+# -----------------------
+
+*.log
+*.xml.zip
+*.temp
+*.lock
+
+# -----------------------
+# OS-specific junk
+# -----------------------
+
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -----------------------
+# Keystore (important security!)
+# -----------------------
+
+*.jks
+*.keystore
+
+# -----------------------
+# Dependency Caches
+# -----------------------
+
+# Gradle
+**/build/
+
+
+# Kotlin
+*.class
+*.kts~
+
+# -----------------------
+# Android Studio Patch
+# -----------------------
+
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/androidProfiles.xml
+
+# -----------------------
+# Git-Specific
+# -----------------------
+
+# Git conflict files
+*.orig
+
+# -----------------------
+# Misc
+# -----------------------
+
+# Ignore crashlytics (if using)
+fabric.properties
+crashlytics.properties
+crashlytics-build.properties
+
+# Ignore Firebase Analytics secrets (if using)
+google-services.json
+firebase.json
+
+# Ignore test coverage files
+*.ec
+coverage/
+
+# -----------------------
+# Your Modules (optional safety)
+# -----------------------
+
+# If you want to ensure no accidental build artifacts for feature modules:
+feature/**/build/
+core/**/build/
+data/**/build/
+domain/**/build/
+
+# -----------------------
+# Rest
+# -----------------------
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle Wrapper (optional)
+gradle/wrapper/gradle-wrapper.jar
+# Proguard / R8 mapping files
+
+**/mapping.txt
+**/outputs/mapping/
+
+# -----------------------
+# End
+# -----------------------
+

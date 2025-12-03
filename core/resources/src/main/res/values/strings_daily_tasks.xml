@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recurring_task">Recurring Task</string>
+    <string name="recurring_statistics">Recurring Task Statistics</string>
+    <string name="disable_daily_task">Disable</string>
+    <string name="whole_week">Daily</string>
+    <string name="every_day">Every day</string>
+    <string name="work_days_only">Mon-Fri</string>
+    <string name="weekends_only">Sat-Sun</string>
+    <string name="schedule_type">Schedule</string>
+    <string name="workdays_only">Workdays only</string>
+    <string name="status">Last completion status: </string>
+    <string name="custom_days">Selected days</string>
+    <string name="select_days">Select days</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="mon_short">Mon</string>
+    <string name="tue_short">Tue</string>
+    <string name="wed_short">Wed</string>
+    <string name="thu_short">Thu</string>
+    <string name="fri_short">Fri</string>
+    <string name="sat_short">Sat</string>
+    <string name="sun_short">Sun</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_title">Zadanie</string>
+    <string name="tasks_statistic_title">Statystyki zadań</string>
+    <string name="disable_deadline">Wyłącz termin</string>
+    <string name="mark_as_active">Oznacz jako aktywne</string>
+    <string name="title">Tytuł</string>
+    <string name="no_description">Brak opisu</string>
+    <string name="linked_goal">Powiązany cel</string>
+    <string name="information">Informacja</string>
+    <string name="warning_note">
+        Ten element nie został ukończony. Aby oznaczyć go do ukończenia ponownie,
+        wybierz przyszłą datę lub pozostaw bez zmian, jeśli nie jest wymagana żadna aktualizacja.
+    </string>
+</resources>

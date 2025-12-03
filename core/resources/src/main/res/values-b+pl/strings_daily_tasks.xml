@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="recurring_task">Zadanie Regularne</string>
+    <string name="recurring_statistics">Statystyki Zadań Regularnych</string>
+    <string name="disable_daily_task">Wylacz</string>
+    <string name="whole_week">Codziennie</string>
+    <string name="every_day">Codziennie</string>
+    <string name="work_days_only">Pn-Pt</string>
+    <string name="weekends_only">Sob-Ndz</string>
+    <string name="schedule_type">Harmonogram</string>
+    <string name="workdays_only">Tylko dni robocze</string>
+    <string name="status">Ostatni status: </string>
+    <string name="custom_days">Wybrane dni</string>
+    <string name="select_days">Wybierz dni</string>
+
+    <!-- Day names -->
+    <string name="monday">Poniedziałek</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="wednesday">Środa</string>
+    <string name="thursday">Czwartek</string>
+    <string name="friday">Piątek</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Niedziela</string>
+
+    <!-- Short day names -->
+    <string name="mon_short">Pn</string>
+    <string name="tue_short">Wt</string>
+    <string name="wed_short">Śr</string>
+    <string name="thu_short">Czw</string>
+    <string name="fri_short">Pt</string>
+    <string name="sat_short">Sob</string>
+    <string name="sun_short">Ndz</string>
+</resources>
