@@ -15,5 +15,5 @@ internal class DelayTaskCoordinatorImpl(
     override fun updateItemWithDelay(item: Task, delayedTime: Long): Task =
         item.copy(delayedTime = delayedTime)
 
-    override fun getReminderType(): ReminderType = ReminderType.DAILY
+    override fun getReminderType(): ReminderType = ReminderType.TASK
 }
